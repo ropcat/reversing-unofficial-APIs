@@ -179,6 +179,8 @@ Requests made and data returned from API for your specific purpose.
 
 ## 🤷‍♂️ Don't know how to code?
 - Jan Lauridtsen's 2024 SANS OSINT Summit lecture *[Uncovering the invisible gold mines: How to dump raw data from TikTok](https://youtube.com/watch?v=MQumdWDR0C4)* on dumping raw data from apps built with a React frontend. [Jan's Github repo for this talk here](https://github.com/janhalendk/react).
+- [API Parrot](https://apiparrot.com/) looks very impressive (though I haven't used it personally)
+  - [HN discussion](https://news.ycombinator.com/item?id=42565821)
 
 # 🏃‍♂️Evading detection
 There are various techniques that can be used to prevent a platform detecting and blocking an unofficial API client:
