@@ -195,6 +195,7 @@ As with anti-fingerprinting, block evasion in general is a complex and fast chan
 
 # Examples
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
+- [hinge-rs](https://github.com/f0rr0/hinge-rs) - Unofficial typed Rust client for Hinge REST and Sendbird chat, with generated OpenAPI docs.
 - [Venmo unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API) and interesting [HN discussion](https://news.ycombinator.com/item?id=42178130)
 
 ## OSINT / SOCMINT tools
