@@ -196,6 +196,7 @@ As with anti-fingerprinting, block evasion in general is a complex and fast chan
 # Examples
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
 - [Venmo unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API) and interesting [HN discussion](https://news.ycombinator.com/item?id=42178130)
+- [yandex-books-bookmate-api](https://github.com/and-vin/yandex-books-bookmate-api) — reverse-engineered OpenAPI spec for the Yandex Books / Bookmate REST & GraphQL API, with content-decryption endpoints deliberately excluded
 
 ## OSINT / SOCMINT tools
 - [Instaloader](https://github.com/instaloader/instaloader/tree/master)
